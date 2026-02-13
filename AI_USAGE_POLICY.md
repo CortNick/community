@@ -34,7 +34,7 @@ Current AI tools are useful as coding assistants — but not as autonomous contr
 
    Many AI coding tools automatically add `Co-authored-by` trailers—this is acceptable and need not be changed to `Assisted-by`.
 
-Kyverno Maintainers are exempt from these rules and may use AI tools at their discretion; they've proven themselves trustworthy to apply good judgment.
+[Kyverno Maintainers](https://github.com/kyverno/community/blob/main/MAINTAINERS.md) are exempt from these rules and may use AI tools at their discretion; they've proven themselves trustworthy to apply good judgment.
 
 ## Website & Blog Guidelines
 
