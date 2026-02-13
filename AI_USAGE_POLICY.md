@@ -8,7 +8,7 @@ Current AI tools are useful as coding assistants — but not as autonomous contr
 
 1. Contributors are fully responsible and accountable for all their submissions. This includes Pull requests (PRs), issues, comments or any other form of engagement with the project and its maintainers.
 
-2. To avoid maintainer overload, contributors are limited to 5 open PRs at any given time. Contributors are required to address PR comments and merge PRs, before creating additional PRs.
+2. To avoid maintainer overload, contributors are limited to 8 open PRs at any given time across all repositories. Contributors are required to address all open PR comments and merge all open PRs, before creating additional PRs.
 
 3. Contributors using AI to generate content should:
 
